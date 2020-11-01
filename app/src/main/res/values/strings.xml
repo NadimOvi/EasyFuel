@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Easy Fuel</string>
+
+    <string name="profile">প্রোফাইল</string>
+    <string name="itemHistory">লিষ্ট দেখুন</string>
+    <string name="signOut">সাইন আপ</string>
+
+    <string name="welcome">স্বাগতম</string>
+    <string name="click_below_to_select_a_image">ছবি আপলোড করতে নীচে ক্লিক করুন</string>
+    <string name="identify">শনাক্ত করুন</string>
+    <string name="name">নাম :</string>
+    <string name="quantity">পরিমাণ :</string>
+    <string name="total_amount">মোট দাম :</string>
+    <string name="save">সেভ করুন</string>
+    <string name="Login_your_number">লগইন করুন</string>
+    <string name="please_enter_your_mobile_number_to_receive_a_verification_code">একটি যাচাইকরণ কোড পেতে আপনার মোবাইল নম্বর দিন</string>
+    <string name="phone_number">মোবাইল নাম্বার</string>
+    <string name="verification">যাচাইকরণ</string>
+    <string name="otp_has_been_sent_to_you_on_your_mobile_phone_please_enter_it_below">আপনার মোবাইল ফোনে একটি কোড পাঠানো হয়েছে। এটি নীচে লিখুন</string>
+    <string name="code">কোড</string>
+    <string name="verify">যাচাই করুন</string>
+</resources>
